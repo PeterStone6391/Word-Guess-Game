@@ -1,0 +1,37 @@
+.jumbotron {
+  background: transparent;
+}
+.gameFont {
+  font-family: "Eagle Lake", cursive;
+  color: white;
+  text-align: center;
+}
+.seeThrough {
+  background: transparent;
+}
+body {
+  background-image: url("../images/Map.jpg");
+}
+.margin1 {
+  margin-bottom: 40%;
+}
+#victories {
+  width: 100%;
+  height: 300px;
+}
+.margin2 {
+  margin-bottom: 5%;
+}
+#GuessesRemaining {
+  height: 30px;
+}
+
+.incorrect {
+  height: 30px;
+}
+#results-img {
+  text-align: right;
+}
+#game-info {
+  text-align: left;
+}
