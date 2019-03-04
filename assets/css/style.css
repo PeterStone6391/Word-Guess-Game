@@ -11,19 +11,23 @@
 }
 body {
   background-image: url("../images/Map.jpg");
+  background-repeat: no-repeat;
 }
 .margin1 {
   margin-bottom: 40%;
 }
 #victories {
   width: 100%;
-  height: 300px;
+  height: 10px;
+  background-repeat: no-repeat;
 }
 .margin2 {
   margin-bottom: 5%;
 }
 #GuessesRemaining {
+  width: 100%;
   height: 30px;
+  background-repeat: no-repeat;
 }
 
 .incorrect {
